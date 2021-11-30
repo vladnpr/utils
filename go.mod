@@ -1,3 +1,3 @@
-module github.com/dhnikolas/utils
+module github.com/vladnpr/utils
 
 go 1.17
